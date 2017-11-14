@@ -1,2 +1,2 @@
 # ea773
-Experimentos da disciplina de EA773 - Laboratório de Circuitos Lógicos
+Relatórios dos experimentos da disciplina de EA773 - Laboratório de Circuitos Lógicos
